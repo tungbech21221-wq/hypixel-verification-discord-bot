@@ -1,10 +1,10 @@
 {
-	"token":"YOUR DISCORD BOT TOKEN",
-	"applicationID":"YOUR DISCORD BOT APPLICATION ID",
-	"hypixelKey":"YOUR HYPIXEL KEY",
-	"guildID":"THE ID OF YOUR HYPIXEL GUILD",
-	"discordGuildID":"YOUR DISCORD GUILD ID",
-	"verifyChannelID":"VERIFICATION CHANNEL ID",	
+	"token":"MTQyOTc0NjMwNDc0MDc1MzQzMA.GgArAV.o_zF67aL_XtzaeSE0u-EFdQb2oww-RlkzsvoEc ",
+	"applicationID":"KdtPaVEom4Xp8AmYVwI3n-_eAl8ZpaiX",
+	"hypixelKey":"1323954365387505717",
+	"guildID":"1334887156128153744",
+	"discordGuildID":"1334887156128153744",
+	"verifyChannelID":"1428303665009266698",	
 	"adminPerm":"You need `ADMINISTRATOR` permission to check server's configuration",
 	"notLinked":"This Discord account is not linked to any Minecraft account!\n\n\n- To **link a Minecraft account**, type the command `/verify <your Minecraft username>`\n⚠️ To be able to link your account:\n> - Connect on **hypixel.net**\n> - Click on your profile menu (Head in your inventory)\n> - Go on __Social Media__ page\n> - Click on the Discord Head and type your Discord TAG in the chat (Example: `ezzud` OR `ezzud#0001`)",
 	"linkGIF":"https://cdn.discordapp.com/attachments/982679018316890162/984547941693927544/ezgif-4-a327779216.gif?size=4096",
@@ -27,5 +27,6 @@
 			"channel":"*Use this command __to register your Minecraft Account__* : `/verify <In Game Name>`\n\n⚠ To be able to link your account:\n> - Connect on **hypixel.net**\n> - Click on your profile menu (Head in your inventory)\n> - Go on __Social Media__ page\n> - Click on the Discord Head and type your Discord TAG in the chat (Example: `ezzud` OR `ezzud#0001`) "
 		}
 	}
+
 
 }
